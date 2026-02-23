@@ -17,6 +17,9 @@
 ## 🎨 طراحی و فونت
 در طراحی رابط کاربری این صفحه، از تایپ‌فیس متن‌باز و محبوب **[وزیرمتن (Vazirmatn)](https://github.com/rastikerdar/vazirmatn)** استفاده شده است. با تشکر از [صابر راستی‌کردار](https://github.com/rastikerdar) عزیز بابت خلق این فونت بی‌نظیر.
 
+<img width="1916" height="913" alt="Screenshot-01" src="https://github.com/user-attachments/assets/0246ba6c-5329-40b4-8d6c-3786da3a89b7" />
+
+
 ## ⚙️ پیش‌نیازها
 1. یک حساب کاربری رایگان در [Cloudflare](https://dash.cloudflare.com/sign-up).
 2. **یک دامنه شخصی (Custom Domain):** از آنجایی که دامنه پیش‌فرض کلودفلر (`*.workers.dev`) در ایران فیلتر است، برای دسترسی بدون فیلترشکن، حتماً باید یک دامنه شخصی (حتی ارزان‌قیمت) ثبت کرده و به کلودفلر متصل کنید.
